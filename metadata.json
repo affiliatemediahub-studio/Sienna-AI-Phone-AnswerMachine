@@ -1,0 +1,7 @@
+{
+  "name": "Sienna AI Answering Machine",
+  "description": "AI Phone Answering Machine and Call Screening system with live voicemail transcription, sentiment analysis, custom greetings, contact directory, and John's Call Tracker notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
